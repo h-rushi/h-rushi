@@ -1,5 +1,8 @@
-## Hi there 👋
+### Hey buddy 👋,
 
+- 👋 Hi, I’m Rushikesh Chaudhari
+- 🌱 I’m currently learning VueJS
+  
 <!--
 **h-rushi/h-rushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
