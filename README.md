@@ -1,7 +1,7 @@
 ### Hey buddy 👋,
 
 - 👋 Hi, I’m Rushikesh Chaudhari
-- 👀 I’m building amazing stuff [@Harmoney](https://harmoney.in/)
+- 👀 I’m building amazing stuff [@INFEREDGE](https://inferedge.com/) (prev. [@Harmoney](https://harmoney.in/))
 - 📫 Also me - [@rushi-173](https://github.com/rushi-173)
 - 😄 Pronouns: He/Him
 
